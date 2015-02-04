@@ -1,0 +1,13 @@
+C:\Desarrollo\InterAssist\Utils.InterAssist\bin\Debug\Utils.InterAssist.dll
+C:\Desarrollo\InterAssist\Utils.InterAssist\bin\Debug\Utils.InterAssist.pdb
+C:\Desarrollo\InterAssist\Utils.InterAssist\bin\Debug\Cognitas.Framework.Repository.dll
+C:\Desarrollo\InterAssist\Utils.InterAssist\bin\Debug\Oracle.DataAccess.dll
+C:\Desarrollo\InterAssist\Utils.InterAssist\bin\Debug\Cognitas.Framework.Repository.pdb
+C:\Desarrollo\InterAssist\Utils.InterAssist\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\InterAssist\Utils.InterAssist\obj\Debug\Utils.InterAssist.dll
+C:\Desarrollo\InterAssist\Utils.InterAssist\obj\Debug\Utils.InterAssist.pdb
+C:\Desarrollo\Proyectos\Interassist\Utils.InterAssist\obj\Debug\Utils.InterAssist.dll
+C:\Desarrollo\Proyectos\Interassist\Utils.InterAssist\obj\Debug\Utils.InterAssist.pdb
+C:\Desarrollo\Proyectos\Interassist\Utils.InterAssist\bin\Debug\Utils.InterAssist.dll
+C:\Desarrollo\Proyectos\Interassist\Utils.InterAssist\bin\Debug\Utils.InterAssist.pdb
+C:\Desarrollo\Proyectos\Interassist\Utils.InterAssist\bin\Debug\Cognitas.Framework.Repository.dll
