@@ -14,23 +14,23 @@
             <table class="style1">
                 <tr>
                     <td align="right">
-                        <asp:Label ID="lblPais" runat="server"></asp:Label>
+                        <asp:Label ID="lblUbicacion" runat="server"></asp:Label>
                     </td>
                     <td align="left" width="100%">
+                        <uc1:UbicacionPredictivo ID="ubicacionPredict" runat="server" 
+                            ClientIDMode="Predictable" />
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right">
+                        <asp:Label ID="lblPais" runat="server"></asp:Label>
+                    </td>
+                    <td align="left">
                         <asp:DropDownList ID="ddlPais" runat="server" AutoPostBack="True" 
                             onselectedindexchanged="ddlPais_SelectedIndexChanged" Width="300px">
                         </asp:DropDownList>
                         <asp:CustomValidator ID="cmvPais" runat="server" ControlToValidate="ddlPais" 
                             ClientValidationFunction="validateCombo" CssClass="errorText">*</asp:CustomValidator>
-                    </td>
-                </tr>
-                <tr>
-                    <td align="right">
-                        <asp:Label ID="lblUbicacion" runat="server"></asp:Label>
-                    </td>
-                    <td align="left">
-                        <uc1:UbicacionPredictivo ID="ubicacionPredict" runat="server" 
-                            ClientIDMode="Predictable" />
                     </td>
                 </tr>
                 <tr>
