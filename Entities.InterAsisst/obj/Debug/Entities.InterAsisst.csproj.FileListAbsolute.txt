@@ -20,3 +20,4 @@ C:\Desarrollo\Proyectos\Interassist\Entities.InterAsisst\bin\Debug\DAL.InterAssi
 C:\Desarrollo\Proyectos\Interassist\Entities.InterAsisst\bin\Debug\Utils.InterAssist.dll
 C:\Desarrollo\Proyectos\Interassist\Entities.InterAsisst\bin\Debug\DAL.InterAssist.pdb
 C:\Desarrollo\Proyectos\Interassist\Entities.InterAsisst\bin\Debug\Utils.InterAssist.pdb
+C:\Desarrollo\Proyectos\Interassist\Entities.InterAsisst\bin\Debug\Oracle.DataAccess.dll

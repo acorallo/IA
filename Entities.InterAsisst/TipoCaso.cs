@@ -47,6 +47,7 @@ namespace Entities.InterAsisst
             resultList.Add(new TipoCaso("Asesoramiento"));
             resultList.Add(new TipoCaso("Asistencia"));
             resultList.Add(new TipoCaso("Traslado"));
+            resultList.Add(new TipoCaso("Hogar"));
             
             return resultList;
         }

@@ -27,3 +27,4 @@ C:\Desarrollo\Proyectos\Interassist\Test.InterAssist\Test.InterAssist\bin\Debug\
 C:\Desarrollo\Proyectos\Interassist\Test.InterAssist\Test.InterAssist\bin\Debug\DAL.InterAssist.pdb
 C:\Desarrollo\Proyectos\Interassist\Test.InterAssist\Test.InterAssist\bin\Debug\Entities.InterAsisst.pdb
 C:\Desarrollo\Proyectos\Interassist\Test.InterAssist\Test.InterAssist\bin\Debug\Utils.InterAssist.pdb
+C:\Desarrollo\Proyectos\Interassist\Test.InterAssist\Test.InterAssist\bin\Debug\Oracle.DataAccess.dll

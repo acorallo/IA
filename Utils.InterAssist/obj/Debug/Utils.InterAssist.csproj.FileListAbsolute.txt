@@ -11,3 +11,5 @@ C:\Desarrollo\Proyectos\Interassist\Utils.InterAssist\obj\Debug\Utils.InterAssis
 C:\Desarrollo\Proyectos\Interassist\Utils.InterAssist\bin\Debug\Utils.InterAssist.dll
 C:\Desarrollo\Proyectos\Interassist\Utils.InterAssist\bin\Debug\Utils.InterAssist.pdb
 C:\Desarrollo\Proyectos\Interassist\Utils.InterAssist\bin\Debug\Cognitas.Framework.Repository.dll
+C:\Desarrollo\Proyectos\Interassist\Utils.InterAssist\bin\Debug\Oracle.DataAccess.dll
+C:\Desarrollo\Proyectos\Interassist\Utils.InterAssist\obj\Debug\Utils.InterAssist.csprojResolveAssemblyReference.cache
