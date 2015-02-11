@@ -34,11 +34,9 @@
                 </tr>
                 <tr>
                     <td align="right">
-                        <asp:Label ID="lblDescripcion" runat="server"></asp:Label>
-                    </td>
+                        &nbsp;</td>
                     <td align="left">
-                        <asp:Label ID="lbltxtDescripcion" runat="server"></asp:Label>
-                    </td>
+                        &nbsp;</td>
                     <td align="right">
                         <asp:Label ID="lblEstado" runat="server"></asp:Label>
                     </td>
@@ -102,10 +100,10 @@
                 </tr>
                 <tr>
                     <td align="right">
-                        <asp:Label ID="lblTelefono1" runat="server"></asp:Label>
+                        <asp:Label ID="lblTelefono1" runat="server" Font-Bold="True"></asp:Label>
                     </td>
                     <td align="left">
-                        <asp:Label ID="lbltxtTelefono1" runat="server"></asp:Label>
+                        <asp:Label ID="lbltxtTelefono1" runat="server" Font-Bold="True"></asp:Label>
                     </td>
                     <td align="right">
                         <asp:Label ID="lblCelular1" runat="server"></asp:Label>
@@ -116,16 +114,24 @@
                 </tr>
                 <tr>
                     <td align="right">
-                        <asp:Label ID="lblTelefono2" runat="server"></asp:Label>
+                        <asp:Label ID="lblTelefono2" runat="server" Font-Bold="True"></asp:Label>
                     </td>
                     <td align="left">
-                        <asp:Label ID="lbltxtTelefono2" runat="server"></asp:Label>
+                        <asp:Label ID="lbltxtTelefono2" runat="server" Font-Bold="True"></asp:Label>
                     </td>
                     <td align="right">
                         <asp:Label ID="lblCelular2" runat="server"></asp:Label>
                     </td>
                     <td align="left">
                         <asp:Label ID="lblTxtCeluar2" runat="server"></asp:Label>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right">
+                        <asp:Label ID="lblDescripcion" runat="server"></asp:Label>
+                    </td>
+                    <td colspan="3" align="left">
+                        <asp:Label ID="lbltxtDescripcion" runat="server"></asp:Label>
                     </td>
                 </tr>
                 <tr>

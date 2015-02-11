@@ -11,3 +11,15 @@ C:\Desarrollo\InterAssist\Interassist\DAL.InterAssist\obj\Release\DAL.InterAssis
 C:\Desarrollo\InterAssist\Interassist\DAL.InterAssist\obj\Release\DAL.InterAssist.pdb
 C:\Desarrollo\InterAssist\Interassist\DAL.InterAssist\bin\Release\DAL.InterAssist.dll.config
 C:\Desarrollo\InterAssist\Interassist\DAL.InterAssist\obj\Release\DAL.InterAssist.csprojResolveAssemblyReference.cache
+C:\Desarrollo\Proyectos\Interassist\DAL.InterAssist\bin\Release\DAL.InterAssist.dll.config
+C:\Desarrollo\Proyectos\Interassist\DAL.InterAssist\bin\Release\DAL.InterAssist.dll
+C:\Desarrollo\Proyectos\Interassist\DAL.InterAssist\bin\Release\DAL.InterAssist.pdb
+C:\Desarrollo\Proyectos\Interassist\DAL.InterAssist\bin\Release\Cognitas.Framework.Repository.dll
+C:\Desarrollo\Proyectos\Interassist\DAL.InterAssist\bin\Release\Oracle.DataAccess.dll
+C:\Desarrollo\Proyectos\Interassist\DAL.InterAssist\bin\Release\Utils.InterAssist.dll
+C:\Desarrollo\Proyectos\Interassist\DAL.InterAssist\bin\Release\Utils.InterAssist.pdb
+C:\Desarrollo\Proyectos\Interassist\DAL.InterAssist\obj\Release\DAL.InterAssist.csprojResolveAssemblyReference.cache
+C:\Desarrollo\Proyectos\Interassist\DAL.InterAssist\obj\Release\Interop.ATLLib.dll
+C:\Desarrollo\Proyectos\Interassist\DAL.InterAssist\obj\Release\DAL.InterAssist.csproj.ResolveComReference.cache
+C:\Desarrollo\Proyectos\Interassist\DAL.InterAssist\obj\Release\DAL.InterAssist.dll
+C:\Desarrollo\Proyectos\Interassist\DAL.InterAssist\obj\Release\DAL.InterAssist.pdb
